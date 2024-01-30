@@ -1,0 +1,8 @@
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\bin\Debug\2017 mock.exe.config
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\bin\Debug\2017 mock.exe
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\bin\Debug\2017 mock.pdb
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\obj\Debug\2017 mock.csproj.AssemblyReference.cache
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\obj\Debug\2017 mock.csproj.SuggestedBindingRedirects.cache
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\obj\Debug\2017 mock.csproj.CoreCompileInputs.cache
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\obj\Debug\2017 mock.exe
+D:\coding\projects\a level exam prep\2017 mock\2017 mock\obj\Debug\2017 mock.pdb

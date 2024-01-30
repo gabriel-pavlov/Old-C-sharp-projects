@@ -1,0 +1,8 @@
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\bin\Debug\2020 mock.exe.config
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\bin\Debug\2020 mock.exe
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\bin\Debug\2020 mock.pdb
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\obj\Debug\2020 mock.csproj.AssemblyReference.cache
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\obj\Debug\2020 mock.csproj.SuggestedBindingRedirects.cache
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\obj\Debug\2020 mock.csproj.CoreCompileInputs.cache
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\obj\Debug\2020 mock.exe
+D:\coding\projects\a level exam prep\2020 mock\2020 mock\obj\Debug\2020 mock.pdb
